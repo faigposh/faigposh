@@ -1,4 +1,4 @@
-# Hi, I'm Golda Faigy Shaposhnik 👋
+# Hi, I'm Golda Faigy (Shaposhnik) Brandwein 👋
 
 Junior Software Developer with strong analytical skills, hands-on experience in algorithms, programming, and applied machine learning.  
 I enjoy problem-solving, clean code, and building projects that deepen my understanding of how systems work.
